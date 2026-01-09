@@ -79,12 +79,6 @@ export function LoginPage({ onLogin }: LoginPageProps) {
             <Button type="submit" className="w-full">
               Login
             </Button>
-
-            <div className="text-xs text-gray-500 mt-4 space-y-1 bg-gray-50 p-3 rounded">
-              <p>Default Credentials:</p>
-              <p>Boss: BOSS / admin123</p>
-              <p>Employee: EMPLOYEE / employee123</p>
-            </div>
           </form>
         </CardContent>
       </Card>
