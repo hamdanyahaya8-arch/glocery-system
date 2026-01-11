@@ -40,7 +40,7 @@ export function LoginPage({ onLogin }: LoginPageProps) {
         <CardHeader className="space-y-1 text-center">
           <CardTitle className="text-3xl">Revenue Management</CardTitle>
           <CardDescription>
-            Bar & Grocery Business System
+            Business system
           </CardDescription>
         </CardHeader>
         <CardContent>

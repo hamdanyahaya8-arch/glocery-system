@@ -190,9 +190,9 @@ function App() {
       <footer className="bg-white border-t mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="text-center text-sm text-gray-600">
-            <p>Revenue Management System v1.0.0</p>
+            <p>© 2026 Rich_mamifumo</p>
             <p className="text-xs mt-1">
-              Offline PWA for Bars & Grocery Businesses
+              Offline PWA for All Businesses
             </p>
           </div>
         </div>

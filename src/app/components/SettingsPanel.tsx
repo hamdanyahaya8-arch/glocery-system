@@ -165,6 +165,10 @@ export function SettingsPanel({ user }: SettingsPanelProps) {
                 <span>Offline Mode:</span>
                 <span className="text-green-600">Enabled</span>
               </div>
+              <div className="flex justify-between">
+                <span>Help:</span>
+                <span>+255623448310</span>
+              </div>
             </div>
           </div>
         </CardContent>
